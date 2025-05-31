@@ -4,3 +4,4 @@ autogen-ext
 autogen-ext[openai]
 autogen-ext[azure]
 openai
+uv
