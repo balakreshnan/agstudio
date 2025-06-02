@@ -5,3 +5,5 @@ autogen-ext[openai]
 autogen-ext[azure]
 openai
 uv
+playwright
+feedparser
