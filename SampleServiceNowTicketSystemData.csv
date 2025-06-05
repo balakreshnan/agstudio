@@ -1,0 +1,105 @@
+TicketID,Activity,Timestamp,Resource,Priority,Category
+TICK001,Ticket Created,2025-06-01 08:00:00,User1,Medium,Incident
+TICK001,Ticket Assigned,2025-06-01 08:15:00,Agent1,Medium,Incident
+TICK001,Work In Progress,2025-06-01 09:00:00,Agent1,Medium,Incident
+TICK001,Ticket Resolved,2025-06-01 10:30:00,Agent1,Medium,Incident
+TICK001,Ticket Closed,2025-06-01 11:00:00,System,Medium,Incident
+TICK002,Ticket Created,2025-06-01 08:30:00,User2,High,Incident
+TICK002,Ticket Assigned,2025-06-01 08:45:00,Agent2,High,Incident
+TICK002,Work In Progress,2025-06-01 09:15:00,Agent2,High,Incident
+TICK002,Ticket Resolved,2025-06-01 11:00:00,Agent2,High,Incident
+TICK002,Ticket Closed,2025-06-01 11:30:00,System,High,Incident
+TICK003,Ticket Created,2025-06-01 09:00:00,User3,Low,Request
+TICK003,Ticket Assigned,2025-06-01 09:20:00,Agent3,Low,Request
+TICK003,Work In Progress,2025-06-01 10:00:00,Agent3,Low,Request
+TICK003,Ticket Resolved,2025-06-01 12:00:00,Agent3,Low,Request
+TICK003,Ticket Closed,2025-06-01 12:30:00,System,Low,Request
+TICK004,Ticket Created,2025-06-01 10:00:00,User4,Medium,Incident
+TICK004,Ticket Assigned,2025-06-01 10:15:00,Agent1,Medium,Incident
+TICK004,Work In Progress,2025-06-01 11:00:00,Agent1,Medium,Incident
+TICK004,Ticket Escalated,2025-06-01 11:30:00,Agent1,High,Incident
+TICK004,Ticket Reassigned,2025-06-01 11:45:00,Agent4,High,Incident
+TICK004,Work In Progress,2025-06-01 12:15:00,Agent4,High,Incident
+TICK004,Ticket Resolved,2025-06-01 14:00:00,Agent4,High,Incident
+TICK004,Ticket Closed,2025-06-01 14:30:00,System,High,Incident
+TICK005,Ticket Created,2025-06-01 11:00:00,User5,High,Incident
+TICK005,Ticket Assigned,2025-06-01 11:15:00,Agent2,High,Incident
+TICK005,Work In Progress,2025-06-01 12:00:00,Agent2,High,Incident
+TICK005,Ticket Resolved,2025-06-01 13:30:00,Agent2,High,Incident
+TICK005,Ticket Closed,2025-06-01 14:00:00,System,High,Incident
+TICK006,Ticket Created,2025-06-01 12:00:00,User6,Low,Request
+TICK006,Ticket Assigned,2025-06-01 12:20:00,Agent3,Low,Request
+TICK006,Work In Progress,2025-06-01 13:00:00,Agent3,Low,Request
+TICK006,Ticket Resolved,2025-06-01 15:00:00,Agent3,Low,Request
+TICK006,Ticket Closed,2025-06-01 15:30:00,System,Low,Request
+TICK007,Ticket Created,2025-06-02 08:00:00,User7,Medium,Incident
+TICK007,Ticket Assigned,2025-06-02 08:15:00,Agent1,Medium,Incident
+TICK007,Work In Progress,2025-06-02 09:00:00,Agent1,Medium,Incident
+TICK007,Ticket Resolved,2025-06-02 10:30:00,Agent1,Medium,Incident
+TICK007,Ticket Closed,2025-06-02 11:00:00,System,Medium,Incident
+TICK008,Ticket Created,2025-06-02 09:00:00,User8,High,Incident
+TICK008,Ticket Assigned,2025-06-02 09:15:00,Agent2,High,Incident
+TICK008,Work In Progress,2025-06-02 10:00:00,Agent2,High,Incident
+TICK008,Ticket Escalated,2025-06-02 10:30:00,Agent2,Critical,Incident
+TICK008,Ticket Reassigned,2025-06-02 10:45:00,Agent5,Critical,Incident
+TICK008,Work In Progress,2025-06-02 11:15:00,Agent5,Critical,Incident
+TICK008,Ticket Resolved,2025-06-02 13:00:00,Agent5,Critical,Incident
+TICK008,Ticket Closed,2025-06-02 13:30:00,System,Critical,Incident
+TICK009,Ticket Created,2025-06-02 10:00:00,User9,Low,Request
+TICK009,Ticket Assigned,2025-06-02 10:20:00,Agent3,Low,Request
+TICK009,Work In Progress,2025-06-02 11:00:00,Agent3,Low,Request
+TICK009,Ticket Resolved,2025-06-02 12:30:00,Agent3,Low,Request
+TICK009,Ticket Closed,2025-06-02 13:00:00,System,Low,Request
+TICK010,Ticket Created,2025-06-02 11:00:00,User10,Medium,Incident
+TICK010,Ticket Assigned,2025-06-02 11:15:00,Agent1,Medium,Incident
+TICK010,Work In Progress,2025-06-02 12:00:00,Agent1,Medium,Incident
+TICK010,Ticket Resolved,2025-06-02 13:30:00,Agent1,Medium,Incident
+TICK010,Ticket Closed,2025-06-02 14:00:00,System,Medium,Incident
+TICK011,Ticket Created,2025-06-02 12:00:00,User11,High,Incident
+TICK011,Ticket Assigned,2025-06-02 12:15:00,Agent2,High,Incident
+TICK011,Work In Progress,2025-06-02 13:00:00,Agent2,High,Incident
+TICK011,Ticket Resolved,2025-06-02 14:30:00,Agent2,High,Incident
+TICK011,Ticket Closed,2025-06-02 15:00:00,System,High,Incident
+TICK012,Ticket Created,2025-06-03 08:00:00,User12,Low,Request
+TICK012,Ticket Assigned,2025-06-03 08:20:00,Agent3,Low,Request
+TICK012,Work In Progress,2025-06-03 09:00:00,Agent3,Low,Request
+TICK012,Ticket Resolved,2025-06-03 10:30:00,Agent3,Low,Request
+TICK012,Ticket Closed,2025-06-03 11:00:00,System,Low,Request
+TICK013,Ticket Created,2025-06-03 09:00:00,User13,Medium,Incident
+TICK013,Ticket Assigned,2025-06-03 09:15:00,Agent1,Medium,Incident
+TICK013,Work In Progress,2025-06-03 10:00:00,Agent1,Medium,Incident
+TICK013,Ticket Resolved,2025-06-03 11:30:00,Agent1,Medium,Incident
+TICK013,Ticket Closed,2025-06-03 12:00:00,System,Medium,Incident
+TICK014,Ticket Created,2025-06-03 10:00:00,User14,High,Incident
+TICK014,Ticket Assigned,2025-06-03 10:15:00,Agent2,High,Incident
+TICK014,Work In Progress,2025-06-03 11:00:00,Agent2,High,Incident
+TICK014,Ticket Escalated,2025-06-03 11:30:00,Agent2,Critical,Incident
+TICK014,Ticket Reassigned,2025-06-03 11:45:00,Agent5,Critical,Incident
+TICK014,Work In Progress,2025-06-03 12:15:00,Agent5,Critical,Incident
+TICK014,Ticket Resolved,2025-06-03 14:00:00,Agent5,Critical,Incident
+TICK014,Ticket Closed,2025-06-03 14:30:00,System,Critical,Incident
+TICK015,Ticket Created,2025-06-03 11:00:00,User15,Low,Request
+TICK015,Ticket Assigned,2025-06-03 11:20:00,Agent3,Low,Request
+TICK015,Work In Progress,2025-06-03 12:00:00,Agent3,Low,Request
+TICK015,Ticket Resolved,2025-06-03 13:30:00,Agent3,Low,Request
+TICK015,Ticket Closed,2025-06-03 14:00:00,System,Low,Request
+TICK016,Ticket Created,2025-06-03 12:00:00,User16,Medium,Incident
+TICK016,Ticket Assigned,2025-06-03 12:15:00,Agent1,Medium,Incident
+TICK016,Work In Progress,2025-06-03 13:00:00,Agent1,Medium,Incident
+TICK016,Ticket Resolved,2025-06-03 14:30:00,Agent1,Medium,Incident
+TICK016,Ticket Closed,2025-06-03 15:00:00,System,Medium,Incident
+TICK017,Ticket Created,2025-06-04 08:00:00,User17,High,Incident
+TICK017,Ticket Assigned,2025-06-04 08:15:00,Agent2,High,Incident
+TICK017,Work In Progress,2025-06-04 09:00:00,Agent2,High,Incident
+TICK017,Ticket Resolved,2025-06-04 10:30:00,Agent2,High,Incident
+TICK017,Ticket Closed,2025-06-04 11:00:00,System,High,Incident
+TICK018,Ticket Created,2025-06-04 09:00:00,User18,Low,Request
+TICK018,Ticket Assigned,2025-06-04 09:20:00,Agent3,Low,Request
+TICK018,Work In Progress,2025-06-04 10:00:00,Agent3,Low,Request
+TICK018,Ticket Resolved,2025-06-04 11:30:00,Agent3,Low,Request
+TICK018,Ticket Closed,2025-06-04 12:00:00,System,Low,Request
+TICK019,Ticket Created,2025-06-04 10:00:00,User19,Medium,Incident
+TICK019,Ticket Assigned,2025-06-04 10:15:00,Agent1,Medium,Incident
+TICK019,Work In Progress,2025-06-04 11:00:00,Agent1,Medium,Incident
+TICK019,Ticket Resolved,2025-06-04 12:30:00,Agent1,Medium,Incident
+TICK019,Ticket Closed,2025-06-04 13:00:00,System,Medium,Incident

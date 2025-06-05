@@ -7,3 +7,4 @@ openai
 uv
 playwright
 feedparser
+mermaid2img
