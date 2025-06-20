@@ -8,3 +8,5 @@ uv
 playwright
 feedparser
 mermaid2img
+python-dotenv
+openai-agents
